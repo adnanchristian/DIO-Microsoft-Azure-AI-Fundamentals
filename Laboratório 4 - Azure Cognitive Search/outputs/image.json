@@ -1,0 +1,257 @@
+{
+  "metadata_storage_content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "metadata_storage_size": 2579724,
+  "metadata_storage_last_modified": "02/11/2024 14:55:03 +00:00",
+  "metadata_storage_content_md5": "MZlDlHEiNx0pf6mYmF6R5A==",
+  "metadata_storage_name": "review-2.docx",
+  "metadata_storage_path": "aHR0cHM6Ly9kb2N1bWVudGFpOTAwLmJsb2IuY29yZS53aW5kb3dzLm5ldC9jb2ZmZWUtcmV2aWV3cy9yZXZpZXctMi5kb2N40",
+  "metadata_storage_file_extension": ".docx",
+  "metadata_content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "metadata_author": "Sherry Yang",
+  "metadata_character_count": "474",
+  "metadata_creation_date": "2021-12-17T22:16:00.000Z",
+  "metadata_last_modified": "2022-01-17T19:56:00.000Z",
+  "metadata_page_count": "1",
+  "metadata_word_count": "82",
+  "merged_content": "\n\n\nReview: My favorite part about going to Fourth Coffee is the atmosphere. I love the warm lights and plants. It’s a great place to go get a cup of coffee while working on your next business idea or with friends at school. It’s also right next to the University hub, which makes it so easy to access for students. It just gets so busy on the weekends! I wish it was not so crowded. Since they started offering amazing breakfast sandwiches, I wouldn’t try to go get a coffee Saturday morning.  \nDate: September 1, 2018\nLocation: Los Angeles, California \nimage1.png\n  \n\n\nimage2.png\n T \n\n\n",
+  "pages": [
+    {
+      "Entities": [null],
+      "keyPhrases": [
+        "next business idea",
+        "amazing breakfast sandwiches",
+        "favorite part",
+        "warm lights",
+        "great place",
+        "University hub",
+        "Los Angeles",
+        "Fourth Coffee",
+        "Review",
+        "atmosphere",
+        "plants",
+        "cup",
+        "friends",
+        "school",
+        "students",
+        "weekends",
+        "Date",
+        "September",
+        "Location",
+        "California"
+      ],
+      "Page": "\n\n\nReview: My favorite part about going to Fourth Coffee is the atmosphere. I love the warm lights and plants. It’s a great place to go get a cup of coffee while working on your next business idea or with friends at school. It’s also right next to the University hub, which makes it so easy to access for students. It just gets so busy on the weekends! I wish it was not so crowded. Since they started offering amazing breakfast sandwiches, I wouldn’t try to go get a coffee Saturday morning.  \nDate: September 1, 2018\nLocation: Los Angeles, California \nimage1.png\n  \n\n\nimage2.png\n T \n\n\n",
+      "sentimentScore": "positive"
+    }
+  ],
+  "Images": [
+    {
+      "Images": {
+        "description": {
+          "tags": ["indoor", "wall", "floor", "ceiling"],
+          "captions": [
+            {
+              "text": "a person sitting at a table",
+              "confidence": 0.53540337085723877
+            }
+          ]
+        },
+        "height": 696,
+        "imgdata": {
+          "width": 927,
+          "height": 696,
+          "originalWidth": 927,
+          "originalHeight": 696,
+          "rotationFromOriginal": 0,
+          "contentOffset": 565,
+          "pageNumber": 0,
+          "contentType": "image/jpeg"
+        },
+        "originalHeight": 696,
+        "originalWidth": 927,
+        "tags": [
+          { "confidence": 0.99642676115036011, "hint": null, "name": "wall" },
+          { "confidence": 0.99254453182220459, "hint": null, "name": "indoor" },
+          {
+            "confidence": 0.99231284856796265,
+            "hint": null,
+            "name": "furniture"
+          },
+          {
+            "confidence": 0.97065985202789307,
+            "hint": null,
+            "name": "clothing"
+          },
+          {
+            "confidence": 0.94498139619827271,
+            "hint": null,
+            "name": "interior design"
+          },
+          { "confidence": 0.94217449426651, "hint": null, "name": "person" },
+          {
+            "confidence": 0.91074597835540771,
+            "hint": null,
+            "name": "kitchen & dining room table"
+          },
+          {
+            "confidence": 0.8780364990234375,
+            "hint": null,
+            "name": "countertop"
+          },
+          { "confidence": 0.87044680118560791, "hint": null, "name": "desk" },
+          {
+            "confidence": 0.86879110336303711,
+            "hint": null,
+            "name": "ceiling"
+          },
+          { "confidence": 0.858673095703125, "hint": null, "name": "stool" },
+          {
+            "confidence": 0.8404812216758728,
+            "hint": null,
+            "name": "coffee table"
+          },
+          { "confidence": 0.83453309535980225, "hint": null, "name": "floor" },
+          { "confidence": 0.82381987571716309, "hint": null, "name": "woman" },
+          { "confidence": 0.77565789222717285, "hint": null, "name": "window" },
+          { "confidence": 0.745879054069519, "hint": null, "name": "table" },
+          {
+            "confidence": 0.71928828954696655,
+            "hint": null,
+            "name": "kitchen"
+          },
+          { "confidence": 0.63440567255020142, "hint": null, "name": "chair" },
+          { "confidence": 0.57474374771118164, "hint": null, "name": "room" },
+          { "confidence": 0.543560266494751, "hint": null, "name": "cafe" }
+        ],
+        "text": "",
+        "width": 927
+      },
+      "layoutText": { "language": "en", "text": "", "lines": [], "words": [] }
+    },
+    {
+      "Images": {
+        "description": {
+          "tags": [
+            "floor",
+            "indoor",
+            "living",
+            "room",
+            "plant",
+            "furniture",
+            "dining table"
+          ],
+          "captions": [
+            {
+              "text": "a person sitting in a chair",
+              "confidence": 0.43682509660720825
+            }
+          ]
+        },
+        "height": 621,
+        "imgdata": {
+          "width": 932,
+          "height": 621,
+          "originalWidth": 932,
+          "originalHeight": 621,
+          "rotationFromOriginal": 0,
+          "contentOffset": 579,
+          "pageNumber": 0,
+          "contentType": "image/jpeg"
+        },
+        "originalHeight": 621,
+        "originalWidth": 932,
+        "tags": [
+          {
+            "confidence": 0.98458665609359741,
+            "hint": null,
+            "name": "furniture"
+          },
+          { "confidence": 0.97520828247070313, "hint": null, "name": "indoor" },
+          {
+            "confidence": 0.95432108640670776,
+            "hint": null,
+            "name": "interior design"
+          },
+          {
+            "confidence": 0.95335066318511963,
+            "hint": null,
+            "name": "houseplant"
+          },
+          { "confidence": 0.93867194652557373, "hint": null, "name": "wall" },
+          { "confidence": 0.93097531795501709, "hint": null, "name": "house" },
+          { "confidence": 0.92800033092498779, "hint": null, "name": "floor" },
+          {
+            "confidence": 0.90221083164215088,
+            "hint": null,
+            "name": "coffee table"
+          },
+          {
+            "confidence": 0.89207804203033447,
+            "hint": null,
+            "name": "musical instrument"
+          },
+          { "confidence": 0.89071524143218994, "hint": null, "name": "table" },
+          { "confidence": 0.87727248668670654, "hint": null, "name": "chair" },
+          {
+            "confidence": 0.86352711915969849,
+            "hint": null,
+            "name": "flooring"
+          },
+          {
+            "confidence": 0.85238969326019287,
+            "hint": null,
+            "name": "clothing"
+          },
+          {
+            "confidence": 0.851707398891449,
+            "hint": null,
+            "name": "musical keyboard"
+          },
+          { "confidence": 0.85117864608764648, "hint": null, "name": "couch" },
+          {
+            "confidence": 0.84599721431732178,
+            "hint": null,
+            "name": "studio couch"
+          },
+          { "confidence": 0.836332380771637, "hint": null, "name": "person" },
+          { "confidence": 0.82163584232330322, "hint": null, "name": "room" },
+          { "confidence": 0.72043055295944214, "hint": null, "name": "plant" },
+          { "confidence": 0.67267990112304688, "hint": null, "name": "piano" },
+          {
+            "confidence": 0.65592074394226074,
+            "hint": null,
+            "name": "ceiling"
+          },
+          { "confidence": 0.57988208532333374, "hint": null, "name": "home" }
+        ],
+        "text": "T",
+        "width": 932
+      },
+      "layoutText": {
+        "language": "en",
+        "text": "T",
+        "lines": [
+          {
+            "boundingBox": [
+              { "x": 809, "y": 32 },
+              { "x": 837, "y": 31 },
+              { "x": 836, "y": 56 },
+              { "x": 808, "y": 55 }
+            ],
+            "text": "T"
+          }
+        ],
+        "words": [
+          {
+            "boundingBox": [
+              { "x": 815, "y": 31 },
+              { "x": 831, "y": 31 },
+              { "x": 831, "y": 56 },
+              { "x": 815, "y": 56 }
+            ],
+            "text": "T"
+          }
+        ]
+      }
+    }
+  ]
+}
